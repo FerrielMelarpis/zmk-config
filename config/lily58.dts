@@ -1,0 +1,6 @@
+#include <layouts/common/60percent/iso.dtsi>
+
+&layout_60_iso {
+    transform = <&iso_transform>;
+    kscan = <&iso_kscan>;
+};
